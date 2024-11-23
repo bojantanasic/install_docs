@@ -1,7 +1,7 @@
 ### Pre-installation:
 
-*  **OnePlus8T - 14.1.0.602 firmware is required** (https://github.com/Wishmasterflo/Firmware_flasher?tab=readme-ov-file)
-* Download dtbo, vbmeta, super_empty, recovery  (https://sourceforge.net/projects/crdroid/files/kebab/11.x/recovery/)
+* **OnePlus8T - 14.1.0.602 firmware is required** (https://github.com/Wishmasterflo/Firmware_flasher?tab=readme-ov-file)
+* Download dtbo, vbmeta, super_empty, recovery (from download page, recovery button)
 * Optional gapps (from download page, gapps button)
 
 
